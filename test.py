@@ -1,2 +1,2 @@
 a = 6
-python(a)
+print(a)
